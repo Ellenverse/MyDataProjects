@@ -6,18 +6,18 @@ This project is designed as training material to practice building Key Performan
 
 This project uses a **complex data model** built from multiple interconnected tables. All source files are located in the **/data** folder of this repository:
 
-* **Transactions (sales.xlsx):** The main fact table containing details of all orders and sales (used to calculate Total Orders, Revenue, and Profit).
-    * *File Link:* [sales.xlsx](../data/sales.xlsx)
-* **Products (products.xlsx):** The product dimension table used for order categorization (Orders by Product Category: Toys, Art & Crafts, etc.).
-    * *File Link:* [products.xlsx](../data/products.xlsx)
-* **Stores (stores.xlsx):** The store dimension table necessary for filtering by Store Location (Airport, Commercial, etc.).
-    * *File Link:* [stores.xlsx](../data/stores.xlsx)
-* **Calendar (calendar.xlsx & calendar.csv):** The date dimension table necessary for accurate time-series analysis (Revenue by Month).
-    * *File Links:* [calendar.xlsx](../data/calendar.xlsx), [calendar.csv](../data/calendar.csv)
-* **Inventory (inventory.xlsx):** Data related to stock levels or inventory tracking (used for supply management insights).
-    * *File Link:* [inventory.xlsx](../data/inventory.xlsx)
-* **Data Dictionary (data_dictionary.xlsx):** A descriptive file outlining all fields and metrics within the dataset.
-    * *File Link:* [data_dictionary.xlsx](../data/data_dictionary.xlsx)
+* **Transactions:** The main fact table containing details of all orders and sales (used to calculate Total Orders, Revenue, and Profit).
+    * *File Link:* [sales.csv](../data/sales.csv)
+* **Products:** The product dimension table used for order categorization (Orders by Product Category: Toys, Art & Crafts, etc.).
+    * *File Link:* [products.csv](../data/products.csv)
+* **Stores:** The store dimension table necessary for filtering by Store Location (Airport, Commercial, etc.).
+    * *File Link:* [stores.csv](../data/stores.csv)
+* **Calendar:** The date dimension table necessary for accurate time-series analysis (Revenue by Month).
+    * *File Links:* [calendar.csv](../data/calendar.csv)
+* **Inventory:** Data related to stock levels or inventory tracking (used for supply management insights).
+    * *File Link:* [inventory.csv](../data/inventory.csv)
+* **Data Dictionary:** A descriptive file outlining all fields and metrics within the dataset.
+    * *File Link:* [data_dictionary.csv](../data/data_dictionary.csv)
 
 ---
 
