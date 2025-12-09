@@ -53,4 +53,4 @@ The dashboard is organized into three main analytical sections, offering actiona
 
 ## Project Visualization
 
-![Coffee_Shop_Sales_Dashboard](images/Coffee_Shop_Sales_Dashboard.png)
+![Coffee_Shop_Sales_Dashboard](..images/Coffee_Shop_Sales_Dashboard.png)
