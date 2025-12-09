@@ -5,7 +5,7 @@ This project serves as an educational exercise designed to showcase skills in da
 ## Data Sources
 
 * **Source File:** The raw data used for analysis is available in the Excel file within this repository.
-* **File Location:** [Coffee Shop Sales.xlsx](data/Coffee Shop Sales.xlsx)  
+* **File Location:** [coffee_shop_transactions.xlsx](../../data/coffee_shop_transactions.xlsx)  
 * **Data Type:** Transactional sales data, containing individual purchase records.
 
 ## Learning Objectives
@@ -42,7 +42,7 @@ The dashboard is organized into three main analytical sections, offering actiona
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 
 | Aspect | Details |
 | :--- | :--- |
