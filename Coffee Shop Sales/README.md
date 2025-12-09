@@ -5,7 +5,7 @@ This project serves as an educational exercise designed to showcase skills in da
 ## Data Sources
 
 * **Source File:** The raw data used for analysis is available in the Excel file within this repository.
-* **File Location:** [coffee_shop_transactions.xlsx](../../data/coffee_shop_transactions.xlsx)  
+* **File Location:** [coffee_shop_transactions.xlsx](../data/coffee_shop_transactions.xlsx)  
 * **Data Type:** Transactional sales data, containing individual purchase records.
 
 ## Learning Objectives
